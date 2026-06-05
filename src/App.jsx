@@ -16,7 +16,7 @@ const IMG = {
   space: '/img/space/space-01.jpg', // creative space rental
   spaceA: '/img/space/space-15.jpg', // gallery — tall
   spaceB: '/img/space/space-05.jpg', // gallery
-  spaceC: '/img/space/space-11.jpg', // gallery
+  spaceC: '/img/space/space-12.jpg', // gallery
 }
 
 const NAV = [
