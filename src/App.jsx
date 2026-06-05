@@ -647,10 +647,7 @@ function Footer() {
 
           <nav className="footer__col">
             <span className="index-tag">Connect</span>
-            {/* Replace # with the studio's real social handles */}
-            <a href="#" aria-label="Instagram">Instagram</a>
-            <a href="#" aria-label="TikTok">TikTok</a>
-            <a href="#" aria-label="YouTube">YouTube</a>
+            <a href="https://www.instagram.com/thirties_home/" target="_blank" rel="noreferrer" aria-label="Instagram">Instagram</a>
             <a href={`mailto:${CONTACT.email}`}>Email</a>
           </nav>
 
