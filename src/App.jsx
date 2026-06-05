@@ -479,7 +479,7 @@ function Space() {
         </div>
 
         <div className="space__gallery">
-          <Plate src={IMG.spaceA} cap="The lounge" className="g g1" i={1} />
+          <Plate src={IMG.spaceA} cap="Vintage room" className="g g1" i={1} />
           <Plate src={IMG.spaceB} cap="The set" className="g g2" i={2} />
           <Plate src={IMG.spaceC} cap="The studio" className="g g3" i={3} />
         </div>
